@@ -8,7 +8,7 @@ I'm not actively looking for a job change, but I'm always open to networking and
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manu%20Kakkar-blue)](https://www.linkedin.com/in/manu2551988/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Manu%20Kakkar-lightgrey)](https://github.com/manu2551988)
+[![GitHub](https://img.shields.io/badge/GitHub-Manu%20Kakkar-lightgrey)](https://github.com/manukakk)
 
 ### 🛠️ Technical Skills:
 
