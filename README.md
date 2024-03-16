@@ -35,7 +35,7 @@ I'm not actively looking for a job change, but I'm always open to networking and
 [<img src="https://img.icons8.com/fluent/48/000000/android-os.png" width="40" height="40"/>](https://developer.android.com/studio)
 [<img src="https://img.icons8.com/dusk/64/000000/postman-api.png" width="40" height="40"/>](https://www.postman.com/)
 [<img src="https://seeklogo.com/images/S/selenium-logo-DB9103D7CF-seeklogo.com.png" width="40" height="40"/>](https://www.selenium.dev/)
-[<img src="https://icons-for-free.com/iconfiles/png/512/cypress-1324440144114984250.png" width="40" height="40"/>](https://www.cypress.io/)
+[<img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" width="40" height="40"/>](https://www.cypress.io/)
 [<img src="https://cdn.worldvectorlogo.com/logos/appium.svg" width="40" height="40"/>](http://appium.io/)
 [<img src="https://img.icons8.com/color/48/000000/xcode.png" width="40" height="40"/>](https://developer.apple.com/xcode/)
 
