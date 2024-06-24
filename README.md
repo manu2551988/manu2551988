@@ -2,7 +2,7 @@
 
 ### 👉 Let's Connect!
 
-I'm Manu Kakkar, a Quality Assurance Technician professional with 3.5+ years of experience. Currently working at Amazon in the Amazon Appstore team.
+I'm Manu Kakkar, a Quality Assurance Engineer I professional with 3.5+ years of experience. Currently working at Amazon in the Amazon Appstore team.
 
 I'm not actively looking for a job change, but I'm always open to networking and discussing opportunities in quality assurance, test automation, and software testing. Feel free to reach out if you want to connect, discuss new technologies, or explore potential collaborations.
 
