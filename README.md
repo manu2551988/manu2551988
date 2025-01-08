@@ -2,70 +2,67 @@
 
 # 👋 Hi, I'm Manu Kakkar!
 
-I'm a **Quality Assurance Engineer** with over **4.5 years of experience**, currently working in the **Amazon Appstore team** at **Amazon**. While I’m not actively seeking new opportunities, I’m always open to connecting, discussing emerging technologies, and exploring potential collaborations in **quality assurance**, **test automation**, and **software testing**.  
+> Quality Assurance Engineer with a passion for ensuring software excellence through innovative testing strategies and automation.
 
-Feel free to reach out to connect or chat!
+I'm a **Quality Assurance Engineer** with over **4.5 years of experience**, currently working in the **Amazon Appstore team** at **Amazon**. I specialize in developing robust test automation frameworks and implementing comprehensive QA processes.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manu%20Kakkar-blue)](https://www.linkedin.com/in/manu2551988/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Manu%20Kakkar-lightgrey)](https://github.com/manukakk)  
+## 🌟 Current Role
+
+At Amazon, I:
+- Lead QA efforts for the Appstore team
+- Develop and maintain automated test suites
+- Collaborate with cross-functional teams to ensure high-quality software delivery
+- Implement best practices in testing methodologies
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
-[<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40" height="40"/>](https://www.java.com)
-[<img src="https://img.icons8.com/color/48/000000/python.png" width="40" height="40"/>](https://www.python.org)
-[<img src="https://img.icons8.com/color/48/000000/kotlin.png" width="40" height="40"/>](https://kotlinlang.org) 
-[<img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40"/>](https://www.javascript.com)
-[<img src="https://img.icons8.com/plasticine/100/000000/react.png" width="40" height="40"/>](https://reactnative.dev/)
-[<img src="https://img.icons8.com/color/48/000000/swift.png" width="40" height="40"/>](https://swift.org/)
-[<img src="https://img.icons8.com/color/48/000000/html-5.png" width="40" height="40"/>](https://html.spec.whatwg.org/)
-[<img src="https://img.icons8.com/color/48/000000/sql.png" width="40" height="40"/>](https://www.iso.org/standard/63555.html)
+### Languages
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### Tools & Frameworks
-[<img src="https://img.icons8.com/color/48/000000/git.png" width="40" height="40"/>](https://git-scm.com/)
-[<img src="https://img.icons8.com/color/48/000000/jenkins.png" width="40" height="40"/>](https://www.jenkins.io/)
-[<img src="https://img.icons8.com/color/48/000000/jira.png" width="40" height="40"/>](https://www.atlassian.com/software/jira)
-[<img src="https://img.icons8.com/fluent/48/000000/azure-1.png" width="40" height="40"/>](https://azure.microsoft.com/)
-[<img src="https://img.icons8.com/dusk/64/000000/postman-api.png" width="40" height="40"/>](https://www.postman.com/)
-[<img src="https://seeklogo.com/images/S/selenium-logo-DB9103D7CF-seeklogo.com.png" width="40" height="40"/>](https://www.selenium.dev/)
-[<img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" width="40" height="40"/>](https://www.cypress.io/)
-[<img src="https://cdn.worldvectorlogo.com/logos/appium.svg" width="40" height="40"/>](http://appium.io/)
-[<img src="https://img.icons8.com/color/48/000000/xcode.png" width="40" height="40"/>](https://developer.apple.com/xcode/)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Appium](https://img.shields.io/badge/-Appium-663399?style=flat-square&logo=appium&logoColor=white)
 
 ### Development Environments
-[<img src="https://img.icons8.com/fluent/48/000000/intellij-idea.png" width="40" height="40"/>](https://www.jetbrains.com/idea/)
-[<img src="https://img.icons8.com/fluent/48/000000/pycharm.png" width="40" height="40"/>](https://www.jetbrains.com/pycharm/)
-[<img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" width="40" height="40"/>](https://code.visualstudio.com/)
-[<img src="https://img.icons8.com/fluent/48/000000/android-os.png" width="40" height="40"/>](https://developer.android.com/studio)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 
 ### Operating Systems
-[<img src="https://img.icons8.com/color/48/000000/linux.png" width="40" height="40"/>](https://www.linux.org)
-[<img src="https://img.icons8.com/color/48/000000/mac-os.png" width="40" height="40"/>](https://www.apple.com/macos/)
-[<img src="https://img.icons8.com/color/48/000000/windows-logo.png" width="40" height="40"/>](https://www.microsoft.com/windows)
-[<img src="https://img.icons8.com/color/48/000000/kali-linux.png" width="40" height="40"/>](https://www.kali.org/)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
 
-## 🌟 Professional Expertise
+## 📊 GitHub Stats
 
-### Testing
-- **Manual Testing**: Rigorous defect detection and functional validation.  
-- **Automation Testing**: Expertise in frameworks and tools like **Selenium**, **Appium**, and **Cypress**.  
-- **Mobile Testing**: Comprehensive mobile app testing using Appium.  
-- **API Testing**: Proficient in REST and SOAP services using Postman.  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=manu2551988&show_icons=true&theme=radical)
 
-### Development
-- **Android App Development**: Building Android apps tailored for testing needs.  
-- **React Native**: Developing cross-platform applications.  
-- **Framework Architecture**: Designing scalable and modular automation frameworks.  
+## 🚀 Notable Projects
 
-### Test Execution & Optimization
-- **Element Locators**: Skilled in locating and interacting with web and mobile UI elements.  
-- **Regression Testing**: Ensuring product stability with extensive regression suites.  
-- **Log Analysis**: Advanced debugging with tools like **adb logcat**.  
+- **[Project Name]**: Brief description of a significant project you've worked on.
+- **[Another Project]**: Another example of your work.
 
-### Collaboration
-- **Teamwork**: Seamlessly collaborating with cross-functional teams.  
-- **CI/CD**: Experience integrating automation pipelines with **Azure DevOps** and **Jenkins**.  
+## 📫 Let's Connect!
+
+I'm always open to discussing new technologies, quality assurance strategies, and potential collaborations.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manu%20Kakkar-blue)](https://www.linkedin.com/in/manu2551988/)
+[![GitHub](https://img.shields.io/badge/GitHub-Manu%20Kakkar-lightgrey)](https://github.com/manu2551988)
 
 ## 📈 Continuous Learning
-I stay updated with the latest technologies and advancements in testing and development to deliver cutting-edge solutions.  
-Let’s connect and discuss ideas!
+I'm committed to staying updated with the latest in QA, test automation, and software development. Currently exploring [mention any new technology or methodology you're learning].
